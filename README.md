@@ -21,10 +21,6 @@ The project simulates the operations of a restaurant, including order placement,
 
 ## 🗂️ Project Structure
 ```
-CPCS361Project16/
-|
-|-- 📄 CPCS361Group16POurReport.docx        # Project report with detailed explanations.
-|
 |-- 📁 CPCS361Group16POurCode/             # Source code and resources
      |-- 👨‍🍳 Chef.java                      # Simulates the Chef's operations.
      |-- 🧑‍💼 Customer.java                  # Handles Customer-related logic.
