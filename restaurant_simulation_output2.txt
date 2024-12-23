@@ -1,0 +1,55 @@
+Simulation Started with 1 Chefs, 2 Waiters, and 3 Tables.
+
+[18:00] Customer 1 arrives.
+[18:00] Customer 1 is seated at Table 1
+[18:00] Customer 1 places an order: Salad
+[18:00] Chef 1 starts preparing Salad for Customer 1
+[18:05] Chef 1 finishes preparing Salad for Customer 1
+[18:05] Waiter 2 serves Salad to Customer 1 at Table 1
+[18:20] Customer 1 finishes eating and leaves the restaurant.
+[18:20] Table 1 is now available.
+
+[18:03] Customer 2 arrives.
+[18:03] Customer 2 is seated at Table 2
+[18:03] Customer 2 places an order: Burger
+[18:05] Chef 1 starts preparing Burger for Customer 2
+[18:13] Chef 1 finishes preparing Burger for Customer 2
+[18:13] Waiter 2 serves Burger to Customer 2 at Table 2
+[18:28] Customer 2 finishes eating and leaves the restaurant.
+[18:28] Table 2 is now available.
+
+[18:05] Customer 3 arrives.
+[18:05] Customer 3 is seated at Table 3
+[18:05] Customer 3 places an order: Pizza
+[18:13] Chef 1 starts preparing Pizza for Customer 3
+[18:23] Chef 1 finishes preparing Pizza for Customer 3
+[18:23] Waiter 2 serves Pizza to Customer 3 at Table 3
+[18:38] Customer 3 finishes eating and leaves the restaurant.
+[18:38] Table 3 is now available.
+
+[18:07] Customer 4 arrives.
+[18:20] Customer 4 is seated at Table 1
+[18:20] Customer 4 places an order: Pasta
+[18:23] Chef 1 starts preparing Pasta for Customer 4
+[18:33] Chef 1 finishes preparing Pasta for Customer 4
+[18:33] Waiter 1 serves Pasta to Customer 4 at Table 1
+[18:48] Customer 4 finishes eating and leaves the restaurant.
+[18:48] Table 1 is now available.
+
+[18:09] Customer 5 arrives.
+[18:28] Customer 5 is seated at Table 2
+[18:28] Customer 5 places an order: Steak
+[18:33] Chef 1 starts preparing Steak for Customer 5
+[18:41] Chef 1 finishes preparing Steak for Customer 5
+[18:41] Waiter 1 serves Steak to Customer 5 at Table 2
+[18:56] Customer 5 finishes eating and leaves the restaurant.
+[18:56] Table 2 is now available.
+
+Summary:
+- Total Customers Served: 5
+- Average Wait Time for Table: 6.40 Minutes
+- Average Order Preparation Time: 8.20 Minutes
+- Total Simulation Time: 56 Minutes
+
+[End of Simulation]
+

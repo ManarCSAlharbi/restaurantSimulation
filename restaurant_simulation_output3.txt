@@ -1,0 +1,82 @@
+Simulation Started with 3 Chefs, 4 Waiters, and 5 Tables.
+
+[00:00] Customer 1 arrives.
+[00:00] Customer 1 is seated at Table 1
+[00:00] Customer 1 places an order: Burger
+[00:00] Chef 2 starts preparing Burger for Customer 1
+[00:08] Chef 2 finishes preparing Burger for Customer 1
+[00:08] Waiter 3 serves Burger to Customer 1 at Table 1
+[00:23] Customer 1 finishes eating and leaves the restaurant.
+[00:23] Table 1 is now available.
+
+[00:01] Customer 2 arrives.
+[00:01] Customer 2 is seated at Table 2
+[00:01] Customer 2 places an order: Pizza
+[00:01] Chef 1 starts preparing Pizza for Customer 2
+[00:11] Chef 1 finishes preparing Pizza for Customer 2
+[00:11] Waiter 3 serves Pizza to Customer 2 at Table 2
+[00:26] Customer 2 finishes eating and leaves the restaurant.
+[00:26] Table 2 is now available.
+
+[00:02] Customer 3 arrives.
+[00:02] Customer 3 is seated at Table 3
+[00:02] Customer 3 places an order: Pasta
+[00:02] Chef 3 starts preparing Pasta for Customer 3
+[00:12] Chef 3 finishes preparing Pasta for Customer 3
+[00:12] Waiter 2 serves Pasta to Customer 3 at Table 3
+[00:27] Customer 3 finishes eating and leaves the restaurant.
+[00:27] Table 3 is now available.
+
+[00:03] Customer 4 arrives.
+[00:03] Customer 4 is seated at Table 4
+[00:03] Customer 4 places an order: Salad
+[00:08] Chef 2 starts preparing Salad for Customer 4
+[00:13] Chef 2 finishes preparing Salad for Customer 4
+[00:13] Waiter 2 serves Salad to Customer 4 at Table 4
+[00:28] Customer 4 finishes eating and leaves the restaurant.
+[00:28] Table 4 is now available.
+
+[00:04] Customer 5 arrives.
+[00:04] Customer 5 is seated at Table 5
+[00:04] Customer 5 places an order: Steak
+[00:11] Chef 1 starts preparing Steak for Customer 5
+[00:19] Chef 1 finishes preparing Steak for Customer 5
+[00:19] Waiter 3 serves Steak to Customer 5 at Table 5
+[00:34] Customer 5 finishes eating and leaves the restaurant.
+[00:34] Table 5 is now available.
+
+[00:05] Customer 6 arrives.
+[00:23] Customer 6 is seated at Table 1
+[00:23] Customer 6 places an order: Sushi
+[00:23] Chef 1 starts preparing Sushi for Customer 6
+[00:28] Chef 1 finishes preparing Sushi for Customer 6
+[00:28] Waiter 1 serves Sushi to Customer 6 at Table 1
+[00:43] Customer 6 finishes eating and leaves the restaurant.
+[00:43] Table 1 is now available.
+
+[00:07] Customer 7 arrives.
+[00:26] Customer 7 is seated at Table 2
+[00:26] Customer 7 places an order: Tacos
+[00:26] Chef 3 starts preparing Tacos for Customer 7
+[00:31] Chef 3 finishes preparing Tacos for Customer 7
+[00:31] Waiter 1 serves Tacos to Customer 7 at Table 2
+[00:46] Customer 7 finishes eating and leaves the restaurant.
+[00:46] Table 2 is now available.
+
+[00:12] Customer 8 arrives.
+[00:27] Customer 8 is seated at Table 3
+[00:27] Customer 8 places an order: Soup
+[00:27] Chef 2 starts preparing Soup for Customer 8
+[00:37] Chef 2 finishes preparing Soup for Customer 8
+[00:37] Waiter 3 serves Soup to Customer 8 at Table 3
+[00:52] Customer 8 finishes eating and leaves the restaurant.
+[00:52] Table 3 is now available.
+
+Summary:
+- Total Customers Served: 8
+- Average Wait Time for Table: 6.50 Minutes
+- Average Order Preparation Time: 7.63 Minutes
+- Total Simulation Time: 52 Minutes
+
+[End of Simulation]
+
