@@ -1,16 +1,5 @@
 package finalosprojectfrrrrrr;
 /*
-
-Group Members:
-
-
-1- Manar Abdullah Alharbi - 2206712
-2- Lamar Haitham Fatani - 2210455
-3- Dana Khaled Alotaibi - 2129391
-Group Number: 16
-Section: 03
-
-
 Compiler:
 java version "1.8.0_371"
 NetBeans IDE 8.2
