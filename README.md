@@ -13,6 +13,7 @@ The project simulates the operations of a restaurant, including order placement,
 - [📄 Inputs and Outputs](#-inputs-and-outputs)
 - [🛠️ Usage](#%EF%B8%8F-usage)
 - [📜 License](#-license)
+- [🤝 Contributions](#-Contributions)
 
 ## ✨ Features
 - Simulates restaurant operations using Java.
@@ -84,6 +85,8 @@ java RestaurantSimulation restaurant_simulation_input1.txt
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
+## 🤝 Contributions
+This project was collaboratively developed by me and my colleague. We worked together to design and implement the system, ensuring its functionality and reliability.
 ---
 
 Feel free to use this project as a reference or for learning purposes! 🌟
